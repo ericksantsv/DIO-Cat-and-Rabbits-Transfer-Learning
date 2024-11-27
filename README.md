@@ -4,3 +4,4 @@ Desafio DIO de aplicar o método de Transfer Learning em uma rede de Deep Learni
 Link do colab: [Meu Notebook no Colab](https://colab.research.google.com/drive/12VAFKylDX9ukNtp1TgCGcOC1l66nZeVy?usp=sharing)
 
 OBS: É NECESSARIO INTALAR O DATASET QUE ESTA NESSE REPOSITORIO E DAR UPLOAD NO COLAB
+caminho utilizado: root = './dataset'
